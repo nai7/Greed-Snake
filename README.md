@@ -26,7 +26,7 @@ If you use MacPython:
 If you install python from python.org:
 
 > You can install [MacPorts][4], include pygame 1.9.1.
-> Install X11
+> Install [X11][3]
 
 ## Linux ##
 
@@ -35,3 +35,4 @@ On going...
    [1]: http://www.pygame.org/download.shtml
    [2]: http://www.pygame.org/ftp/pygame-1.9.2pre-py2.7-macosx10.7.mpkg.zip
    [3]: http://support.apple.com/kb/HT5293
+   [4]: http://trac.macports.org/
